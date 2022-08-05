@@ -1,0 +1,4 @@
+﻿2022-08-03 21:18:45.3828|DEBUG|NlogProgram.Program+NLog|Debug Successfull : Sum()
+2022-08-03 21:18:45.4519|INFO|NlogProgram.Program+NLog|Sum Method Passed, Result :4
+2022-08-03 21:30:56.8470|DEBUG|NlogProgram.Program+NLog|Debug Successfull : Sum()
+2022-08-03 21:30:56.8977|INFO|NlogProgram.Program+NLog|Sum Method Passed, Result :8
